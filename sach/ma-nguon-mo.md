@@ -1,3 +1,7 @@
 # Sách mã nguồn mở
 
-Chưa tổng hợp lại :(( vì lười quá mn ạ.
+## Kho
+Không phân loại nha.
+
+- [EasyPeasy](https://easypeasymethod.org)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.

@@ -2,7 +2,7 @@
 
 ### Sách ngoại ngữ
 
-- [Eipunbo](https://thu-tram.github.io/eipunbo) - Một quyển sách ngữ pháp Tiếng Anh.
+- [Eibunpo](https://thu-tram.github.io/eibunpo) - Một quyển sách ngữ pháp Tiếng Anh.
 - [Tiếng Nhật hữu cơ](https://thu-tram.github.io/tieng-nhat-huu-co) - Một hướng dẫn ngữ pháp Tiếng Nhật "*ổn*".
 - [Betobungo](https://thu-tram.github.io/betobungo) - Sách ngữ pháp Tiếng Việt.
 
