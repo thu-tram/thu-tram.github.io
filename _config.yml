@@ -1,3 +1,8 @@
 title: Thư trạm
 author: duykhanh471
 description: Một kho lưu trữ sách miễn phí và thuộc phạm vi công cộng (chắc là) lớn.
+remote_theme: "jekyll/minima@7d91bb5"
+minima:
+  skin: auto
+  nav_pages:
+    - about.md
