@@ -1,28 +1,23 @@
-Thư trạm là một cộng đồng sưu tầm các cuốn sách mã nguồn mở, public domain, miễn phí, đã ngừng xuất bản (Ít nhất là bằng hoặc trên 10 năm).
+Thư trạm là một cộng đồng sưu tầm sách mã nguồn mở, public domain, miễn phí, đã ngừng xuất bản (Ít nhất là bằng hoặc trên 10 năm) cũng như các tài nguyên tự học miễn phí.
 
-## Khu đọc mở
-Đây là dự án sách chính của Thư trạm, sưu tầm các đầu sách thuộc [Phạm vi công cộng](https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_vi_c%C3%B4ng_c%E1%BB%99ng) (Đồng nghĩa với việc bạn có thể sử dụng cho bất kì mục đích gì, bao gồm cả việc kiếm lợi nhuận từ đấy).
+Also [available in English](en/index.md) (Toàn bộ các kho lưu trữ tài nguyên bằng Tiếng Anh sẽ được tổng hợp ở trang này)
 
-<a href="/khu-doc-mo"><button type="button">Truy cập Khu đọc mở</button></a>
+**Cập nhật**: Hiện tại Thư trạm đã chuyển toàn bộ các dự án sách thuộc [Phạm vi công cộng hay Public Domain](https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_vi_c%C3%B4ng_c%E1%BB%99ng) sang Khu đọc mở (Đồng nghĩa với việc bạn có thể sử dụng cho bất kì mục đích gì, bao gồm cả việc kiếm tiền). Truy cập: [Khu đọc mở](https://khudocmo.github.io/)
 
-## Các kho sách khác
+## Danh sách *sách*
 
-### Các kho sưu tầm
+- [Hướng dẫn ngữ pháp Tiếng Nhật Yokubi](/yokubi-vi/)
+- [Prompt bí thuật](/ai-bi-thuat/) - Tất tần về GPT (Generative Pretrained Transformer) và cách sử dụng sao cho hiệu quả.
+- [Lập trình Handbook](/lap-trinh-handbook/) - Một trang tổng hợp hướng dẫn tự học Khoa học máy tính, lập trình và vân vân.
+- [Học phần mềm](/hoc-phan-mem/) - Tổng hợp hướng dẫn cách lựa chọn và sử dụng các phần mềm liên quan đến học tập, công việc và phát triển cá nhân
+- [Thoát porn luận](/tpl/) - Thoát porn luận - Thoát khỏi cơn nghiện nội dung khiêu dâm (Bản dịch Tiếng Việt cho sách "The EasyPeasy way to quit Pornography").
 
-Đây sẽ là những kho sách mà bọn mình tổng hợp lại:
+## Danh sách *tài nguyên*
 
-- [Danh sách các sách mã nguồn mở](sach/ma-nguon-mo.md) - Các sách được phát hành trên Github. Gitlab hoặc các nền tảng tương tự, chỉ là danh sách tổng hợp
-- [Các sách do Thư trạm tổng hợp](sach/thu-tram-tong-hop.md) - Tự viết lại dựa trên nhiều nguồn khác nhau, tất nhiên là *miễn phí*.
+Hiện tại chưa có.
 
-### Các nguồn khác (Không phải Tiếng Việt)
+## Các dự án khác
 
-Ở các nước khác như Hoa Kì, Nhật Bản, Úc, đã có những dự án chuyên cho các tác phẩm văn học Public Domain như Gutenberg (Mỹ), Aozora Bunko (Nhật Bản), GutenbergAU (Úc). Bạn có thể tự tìm trên Google.
-
-### Các đầu sách mà Thư trạm sẽ sưu tầm
-
-Cho những ai chưa biết thì:
-
-- **Phạm vi công cộng** hay thuộc về công chúng (Tiếng Anh: Public domain) bao gồm các kiến thức hay tác phẩm sáng tạo (đặc biệt là các công trình sáng tạo như văn học, nghệ thuật, âm nhạc, và phát minh) mà không một cá nhân hay một chủ thể luật pháp nào có thể thiết lập hay giữ quyền sở hữu (Lấy từ Wikipedia). Thường là các tác phẩm của các tác giả đã mất cách đây (*năm hiện tại*) 50 năm. Ví dụ như sách của Vũ Trọng Phụng (mất năm 1939) chẳng hạn (Sách của bác Phụng bị gia hạn thêm 30 năm nên phải đến năm 2019 mới chính thức đi vào Public Domain).
-- **Sách mã nguồn mở**: Là những cuốn sách được phát hành mã nguồn mở trên các trang như Github, Gitlab hoặc Codeberg. Các cuốn sách này thường được phát hành dưới giấy phép Creative Commons hoặc GPL3 và người học được đọc hoàn toàn miễn phí. Với các sách này, bạn có thể được đọc hoàn toàn miễn phí, nhưng còn việc sử dụng với mục đích thương mại thì cần phải kiểm tra giấy phép phát hành.
-- **Miễn phí**: Theo định nghĩa của cá nhân mình thì sách ở mục *miễn phí* được hiểu là *không mất phí*, tức là bạn có thể được đọc miễn phí, và chỉ được đọc thôi, không được phép sử dụng dưới bất kì mục đích nào khác ví dụ như thương mại.
-- **Sách đã ngừng xuất bản**: Tối thiểu thời lượng 10 năm. Trong nước có rất nhiều sách hay, nhưng do không có nhiều người mua nên có thể bị NXB ngừng tái bản. Với các sách này thì chỉ được dùng với mục đích giáo dục, và sẽ được gỡ nếu có yêu cầu từ NXB.
+- [Kaish1.5k Tiếng Việt](https://github.com/thu-tram/kaishi-vi/releases/tag/v1.0.2) - Bản dịch Tiếng Việt cho bộ thẻ Kaishi1.5k, bao gồm 1500 từ vựng Tiếng Nhật cơ bản (phổ biến) nhất.
+- [Dự án bộ thẻ Anki cơ bản cho các ngôn ngữ khác](/anki-co-ban-cho-cac-ngon-ngu-khac/) -  Dự án làm các bộ thẻ học từ vựng cơ bản (Từ 1000 đến 1500 từ vựng phổ thông) cho Anki. Bao gồm các ngôn ngữ: Tiếng Đức, Tiếng Pháp, Tiếng Tây Ban Nha, Tiếng Bồ Đào Nha, Tiếng Nga, Tiếng Ý, Tiếng Thái, Tiếng Ả Rập.
+- [Kho bài viết của Tornad](/tornad/) - Lưu trữ các bài viết của Tornad từ Spiderum (>https://spiderum.com/nguoi-dung/Tornad>)
